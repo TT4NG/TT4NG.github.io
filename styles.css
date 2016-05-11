@@ -1,0 +1,10 @@
+body  {
+    background-image: url("sand.png");
+	background-size:     cover;                     
+    background-repeat:   no-repeat;
+ 
+  
+}
+.video{
+	text-align: center;
+}
